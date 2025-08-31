@@ -23,19 +23,18 @@ This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/yourusername/yourrepo.git
 Install dependencies:
 
-bash
+
 Copy code
 pip install PyQt6 mutagen
 Run the app:
 
-bash
+```bash
 Copy code
 python MyMusic.py
-Note: If you build an EXE using PyInstaller, Python is not required.
+Or
+Download the .exe file found in releases(the latest)
 
 Usage
 Launch MyMusic from the desktop shortcut or Start Menu.
